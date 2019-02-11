@@ -1,0 +1,27 @@
+# TITRE 1 
+
+## TITRE 2
+
+### TITRE 3 
+
+mon texte en markdown
+
+*mon texte italique*
+
+**mon texte en gras**
+
+* mon
+    * texte
+    * en
+        * liste 
+
+![IMG](https://pbs.twimg.com/profile_images/821446459052687360/QPelsuor_400x400.jpg)
+
+[je suis un hyperlien](https://guides.github.com/features/mastering-markdown/)
+
+
+https://www.google.fr
+
+
+
+
